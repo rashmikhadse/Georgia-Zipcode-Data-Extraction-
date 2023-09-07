@@ -6,6 +6,7 @@ Primary goal of the First stage of the project was to extract all the incentive 
 ### 2. Can you briefly explain the main components of the project?
 Step 1: Data gathering using Webscraping from DSIRE website for states GA, AZ, CO, OH and FL
 Step 2: Cleaning the gathered data
+Step 3: Creating ER diagrams for the database and identifying eligibility criteria for recommending appropriate incentives
 Step 3: Creating a centralized Database for gathered data on Google Cloud Platform
 Step 4: Builed Dashboards and recommendation engine for recommending incentives
 
