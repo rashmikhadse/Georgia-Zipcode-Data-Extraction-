@@ -1,8 +1,7 @@
-# Georgia-Zipcode-Data-Extraction-
-Goal is to extract data for incentive programs in Georgia State by using all its zipcodes.
+# Incentives Recommendation Engine
 
 ### 1. What was the primary goal or objective of the project?
-Primary goal of the First stage of the project was to extract all the incentive programs data from a public website called DSIRE from the Georgia State for all its 950 zipcodes. 
+Primary goal of the First stage of the project was to extract all the incentive programs data from a public website called DSIRE from the 5 States for all their zipcodes. I extracted all the data for Georgia state.
 
 ### 2. Can you briefly explain the main components of the project?
 Step 1: Data gathering using Webscraping from DSIRE website for states GA, AZ, CO, OH and FL
